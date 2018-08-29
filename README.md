@@ -28,7 +28,7 @@ Use `-h` flag on any command to see available usages, `-w` to set warning thresh
  * `/opt/sensu/embedded/bin/check-swap-percent.rb -w 70 -c 80` - Values in Percentages
  * `/opt/sensu/embedded/bin/metrics-memory.rb -s FooBar` - So metrics are now prepended with foobar, default is machine hostname. 
 
-## Installation
+## Install
 
 [Installation and Setup](http://sensu-plugins.io/docs/installation_instructions.html)
 
